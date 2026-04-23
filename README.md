@@ -53,25 +53,25 @@ TRUE(),
 )
 
 ## 📊Dashboard Features
-🔹 KPI Cards
+### 🔹 KPI Cards
 Average Temperature
 Average Humidity
 Average Wind Speed
 Average PM10
 
-🔹 Visualizations
+### 🔹 Visualizations
 🗺️ Filled Map – Global Pollution Distribution
 📊 Bar Chart – Top Polluted Countries
 🍩 Donut Chart – Weather Condition Distribution
 📈 Line Charts – Pollution & Temperature Trends
 🔵 Scatter Plot – Temperature vs Humidity
 
-🔹 Slicers
+### 🔹 Slicers
 Country
 Weather Condition
 Date
 
-🎨 Design Highlights
+### 🎨 Design Highlights
 Clean and minimal layout
 Consistent color coding:
 🟢 Low
