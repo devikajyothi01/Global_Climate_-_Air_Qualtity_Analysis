@@ -36,15 +36,22 @@ Kaggle Dataset
 Initial data exploration and cleaning were performed using Python:
 
 Checked dataset structure using info()
+
 Generated statistical summary using describe()
+
 Handled missing values
+
 Removed duplicate records
+
 Dropped unnecessary columns
+
 Performed basic exploratory analysis
 
 ## 🧠Data Modeling
 Created a Country Dimension Table
+
 Established One-to-Many relationship
+
 Ensured consistent aggregation across visuals
 
 ## 🧮Key DAX Measures
@@ -110,22 +117,32 @@ Interactive dashboard
 
 ## 🔍 Key Insights
 Chile is the most polluted country (highest PM10)
+
 Air pollution shows a decreasing trend over time
+
 Weak correlation between temperature and humidity
+
 Clear weather is the most common condition globally
 
 ## ⚠️ Challenges & Solutions
-Challenges
+### Challenges
 Aggregation mismatch (SUM vs AVG)
+
 Inconsistent results across visuals
+
 Map coloring limitations
-Solutions
+### Solutions
 Used Average PM10 consistently
+
 Created Pollution Level classification
+
 Fixed data model using Country table relationship
 
 ## 🚀 Future Improvements
 Add PM2.5 / AQI index
+
 Real-time data integration
+
 Forecasting and predictive analysis
+
 Advanced interactivity
