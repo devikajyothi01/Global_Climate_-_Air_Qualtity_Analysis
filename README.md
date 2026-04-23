@@ -6,20 +6,29 @@ This project presents a comprehensive analysis of global climate conditions and 
 The dashboard helps in understanding:
 
 Air pollution levels (PM10)
+
 Climate patterns (temperature, humidity, wind speed)
+
 Global environmental trends
 
 ## 🎯Objectives
 Analyze PM10 pollution levels across countries
+
 Identify most polluted regions
+
 Study climate variables (temperature, humidity, wind speed)
+
 Visualize trends over time
+
 Explore relationships between environmental factors
 
 ## 🛠️Tools & Technologies
 Python (Pandas, Matplotlib)
+
 Power BI
+
 DAX (Data Analysis Expressions)
+
 Kaggle Dataset
 
 ## 🐍Data Preprocessing (Python)
