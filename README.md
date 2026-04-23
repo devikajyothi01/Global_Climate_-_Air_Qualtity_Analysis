@@ -1,1 +1,1 @@
-# Global_Climate_-_Air_Qualtity_Analysis
+# Global_Climate_&_Air_Qualtity_Analysis
