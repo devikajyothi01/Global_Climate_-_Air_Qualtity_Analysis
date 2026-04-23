@@ -54,9 +54,12 @@ TRUE(),
 
 ## 📊Dashboard Features
 ### 🔹 KPI Cards
-Average Temperature
+
+Average Temperature\n
 Average Humidity
+
 Average Wind Speed
+
 Average PM10
 
 ### 🔹 Visualizations
